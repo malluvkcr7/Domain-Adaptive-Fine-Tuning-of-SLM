@@ -21,8 +21,8 @@ The goal is to study how compact instruction-tuned models can be adapted to spec
   - `trulens_eval.ipynb`: TruLens-based evaluation flow for finance tasks.
 
 - `securityy domain/`
-  - `notebook_fixed.ipynb`: cybersecurity multi-task data processing and fine-tuning pipeline.
-  - `Dataset Details.xlsx`: dataset reference/details used by the security workflow.
+  - `security-finetuning.ipynb`: security-domain fine-tuning experiments across multiple security tasks/datasets.
+  - `trulens_eval_security.ipynb`: TruLens-based evaluation flow for security tasks.
 
 ## Notes
 
